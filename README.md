@@ -1,6 +1,8 @@
 # PocketSystem
 
-Backend-only PocketBase boilerplate with extension points for both Go and JavaScript.
+PocketSystem is an adaptive productivity ecosystem built around PocketBase.
+
+This repository is currently set up as a backend-only PocketBase boilerplate with extension points for both Go and JavaScript.
 
 ## Requirements
 
